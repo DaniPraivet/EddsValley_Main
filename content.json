@@ -1,0 +1,160 @@
+
+{
+  "Format": "2.7.3",
+
+
+
+
+  "CustomLocations": [
+    {
+      "Name": "Edds_world_Eddsworld_Village",
+      "FromMapFile": "Maps/Eddsworld_Village.tmx"
+    },
+    {
+      "Name": "Edds_world_Eddsworld_House",
+      "FromMapFile": "Maps/Eddsworld_House.tmx"
+    }
+  ],
+
+
+  "Changes": [
+
+
+
+
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Town",
+      "FromFile": "Maps/Town.tmx",
+      "AddWarps": [
+        "-1 71 Edds_world_Eddsworld_Village 38 39"
+      ]
+    },
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Edds_world_Eddsworld_Village",
+      "FromFile": "Maps/Eddsworld_Village.tmx",
+      "AddWarps": [
+        "20 10 Edds_world_Eddsworld_House 16 27"
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "Action": "Include",
+      "FromFile": "assets/sound/sound.json"
+    },
+    {
+      "LogName": "NPC Manifestation",
+      "Action": "Include",
+      "FromFile": "assets/disposition/Disposition.json"
+    },
+    {
+      "LogName": "NPC Gift Tastes",
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Tom": "Ostras. Me has alegrado el dia, gracias, @./769 220 611 795 213 575 158 162/Wow un regalo, gracias./128 117 234 898 -15/Esto... Mejor habertelo guardado.../164 72 154 155 126/Que asco. No lo qiero volver a ver./800 899 203/Gracias, muy bonito de tu parte./-4/ "
+      }
+    },
+    {
+      "LogName": "Satoru's Flower Dance Dialogue",
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring24",
+      "Entries": {
+        "Satoru": "Hey, @!$7",
+        "Satoru_Spouse": "You're the prettiest here, @!$7"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Tom",
+      "Entries": {
+        "give_flowersA": "Well, @, I have to say, I've been hoping you'd ask. I'd love to be your boyfriend. Let's make this official.$7",
+        "give_flowersB": "These flowers?$6#$b#Of course! I'm happy to become your boyfriend!$1",
+        "give_pendant": "Whoa, @, didn't see that coming!$6#$b#I'll marry you, no doubt about it, sweetheart.$8"
+      }
+    },
+    {
+      "LogName": "Animation Frames",
+      "Action": "Include",
+      "FromFile": "assets/animations/Animations.json"
+    },
+    {
+      "LogName": "NPC Sprite",
+      "Action": "Load",
+      "Target": "Characters/Tom",
+      "FromFile": "assets/img/spritesheet.png"
+    },
+    {
+      "LogName": "NPC Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Tom",
+      "FromFile": "assets/img/portrait.png"
+    },
+    {
+      "LogName": "Schedule",
+      "Action": "Include",
+      "FromFile": "assets/schedules/schedule.json"
+    },
+    {
+      "LogName": "Dialogue",
+      "Action": "Include",
+      "FromFile": "assets/dialogue/Dialogue.json"
+    },
+    {
+      "LogName": "Satoru's Character",
+      "Action": "Load",
+      "Target": "Characters/Tom_Beach",
+      "FromFile": "assets/img/Tom_sprites_Beach.png"
+    },
+	{
+      "LogName": "Satoru's Character",
+      "Action": "Load",
+      "Target": "Portraits/Tom_Beach",
+      "FromFile": "assets/img/Tom_Portrait_Beach.png"
+    },
+    {
+      "LogName": "Marriage Dialogue",
+      "Action": "Include",
+      "FromFile": "assets/dialogue/MarriageDialogue.json"
+    },
+    {
+      "LogName": "Engagement Dialogue",
+      "Action": "EditData",
+      "Target": "Data/EngagementDialogue",
+      "Entries": {
+        "Tom0": "Hey, sweetheart. Just wanted to steal a moment to remind you how much I love you.$3",
+        "Tom1": "Are you nervous?$7"
+      }
+    },
+    {
+      "LogName": "Tom Festivals Data",
+      "Action": "Include",
+      "FromFile": "assets/festivals/Festivals.json"
+    },
+
+
+    
+
+{
+"Action": "EditData",
+"Target": "Data/Events/Beach",
+"Entries": {
+            "59021001/f Tom 1250/w sunny/t 2200 2300": "moonlightJellies/12 38/farmer 11 30 2 Tom 13 39 2/skippable/pause 1500/move farmer 0 9 1/pause 500/faceDirection Tom 3/speak Tom \"Oh, buenas, @.$0#$b#Que sorpresa verte aqui.$1\"/pause 800/faceDirection Tom 2/pause 700/faceDirection farmer 2/pause 800/speak Tom \"Te gusta el sonido de las olas?$0\"/pause 500/speak Tom \"A mi si, es un sonido donde me ayuda a olvidar los problemas de casa.$0\"/pause 950/emote Tom 40/pause 800/faceDirection farmer 1/pause 650/emote farmer 8/pause 800/faceDirection Tom 3/pause 700/speak Tom \"Me refiero que en casa... $0\"/pause 1000/speak Tom \"Lo sieto. No puedo, ahora no.$0\"/pause 700/emote Tom 40/pause 700/faceDirection Tom 2–…/speak Tom \"Una cosa, @. Me podrias hacer un favor?$0#$b#Podrias quedarte un rato mas conmigo?$1\"/faceDirection farmer 1/pause 700/speak Tom \"No tenemos porque hablar si no quieres.$0#$b#Solo necesito estar un poco con alguien y quien mejor que tu.$1\"/pause 1400/emote farmer 32/pause 700/faceDirection Tom 2/pause 300/faceDirection farmer 2/pause 1300/speak Tom \"Gracias.$4\"/pause 900/end"
+            }
+      }
+
+
+
+
+  ]
+}

@@ -1,0 +1,251 @@
+{
+    "Changes": [
+        {
+            "LogName": "Tom Egg Festival",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring13",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 37 75 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 37 75 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 37 75 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 37 75 3",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Flower Festival",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring24",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 10 36 0",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 10 36 0",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 10 36 0",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 10 36 0",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Luau Festival",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer11",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 19 24 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 19 24 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 19 24 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 19 24 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Dance of the Moonlight Jellies",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer28",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 24 29 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 24 29 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 26 36 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 26 36 3",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Spirit's Eve",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall27",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 33 21 2 Disfraz",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 33 21 2 Disfraz",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Festival of Ice",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter8",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 66 43 1",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Main-Event_additionalCharacters"],
+                    "Value": "Tom 34 21 1",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 66 43 1",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Main-Event_additionalCharacters_y2"],
+                    "Value": "Tom 34 21 1",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            
+            "LogName": "Tom Feast of the Winter Star",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter25",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 26 65 3",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 26 65 3",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+         {
+            "LogName": "Tom Egg Festival Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring13",
+            "Entries": {
+                "Tom": "Como estas gupisimo, yo aqui pillando huevo s$3",
+                "Satoru_spouse": "Si lo cuentas...$1#Si lo cuentas te rajo$4"
+            }
+        },
+        {
+            "LogName": "Tom Flower Festival Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer11",
+            "Entries": {
+                "Tom": "Que poca ganas de hablar con la gente.$0# Bueno al menos Abi me entiende.$1",   
+                "Abigail": "Cómo me cansa el agetreo de la gente... $1No te pasa, @?"
+            }
+        },
+        {
+            "LogName": "Tom Dance of the Moonlight Jellies Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer28",
+            "Entries": {
+                "Tom": "Ver las medusas flotar se me hace raro. Es como si me imnotizaran.$4"
+            }
+        },
+        {
+            "LogName": "Tom Spirit's Eve Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall27",
+            "Entries": {
+                "Tom": "Me a dado un paro cardico ese televisor.$8#$b#Esto? Es que me lo paso bien disfrazandome.$8#Te gusta?$9",
+                "Satoru_spouse": "If you find yourself getting spooked, @, you know where to find me, love.$7#I'll always keep you safe.$1"
+            }
+        },
+        {
+            "LogName": "Tom Festival of Ice Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter8",
+            "Entries": {
+                "Tom": "Dialogo promedio y bla bla bla$1",
+                "Satoru_spouse": "Dialogo promedio y bla bla bla$1, @.$7#Dialogo promedio y bla bla bla$1"
+            }
+        },
+        {
+            "LogName": "Tom Feast of the Winter Star Dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter25",
+            "Entries": {
+                "Tom": "Ese pollo tiene un pinta.$0#$b#Perdona, que tal las navidades, @?$1#Si no hubiera nadie me lanzaba a por el.$1",
+                "Satoru_spouse": "Happy Winter Star, my love. This festival always reminds me of how lucky I am to have you in my life.$7#I love you.$1"
+            }
+        }
+    ]
+}

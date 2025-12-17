@@ -1,0 +1,24 @@
+{
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "LooseSprites/map",
+      "FromFile": "map.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "LooseSprites/map_fall",
+      "FromFile": "map_fall.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "LooseSprites/map_summer",
+      "FromFile": "map_summer.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "LooseSprites/map_winter",
+      "FromFile": "map_winter.png"
+    }
+  ]
+}
