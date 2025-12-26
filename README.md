@@ -1,25 +1,28 @@
-MAPA:
+# MAPA:
 
- Edds_house:
+ ### EddsHouse:
   - [ ] Añadir cambio de hora a ventanas.
-  - Añadir bloqueo de puertas.
-  - Completar objetos interactuables.
-  - Añadir habitacion para Matt (Habitacion en planta superior(?)
+  - [x] Añadir bloqueo de puertas.
+  - [x] Completar objetos interactuables.
+  - [x] Añadir habitacion para Matt (Habitacion en planta superior)
+    - [ ] Añadir WARP hacia habitación de Matt
 
- Eddsworld_Village:
-  - Añadir gato.
-  - Añadir bloqueo de puerta.
-  - Añadir cambio de hora a ventanas.
-  - Completar objetos interactuables.
-  - Propuesta: Hacer el terreno mas pequeño para mejor optimizacion de espacio y movimientos de horario de los personajes
+ ### EddsworldVillage:
+  - [ ] Añadir gato.
+  - [x] Añadir bloqueo de puerta.
+  - [ ] Añadir cambio de hora a ventanas.
+  - [x] Completar objetos interactuables.
+  - [x] Hacer el terreno mas pequeño para mejor optimizacion de espacio y movimientos de horario de los personajes
+  - [x] Quitar granero
+  - [x] Quitar gallinero
 
- Minimapa:
-  - Añadir casa al minimapa.
-  - Añadir informacion de la casa sobre el minimapa.
+ ### Minimapa:
+  - [ ] Añadir casa al minimapa.
+  - [ ] Añadir informacion de la casa sobre el minimapa.
 
-SPRITE:
+### SPRITE:
  Tom:
-  - Retoque de sprites ya hechos (Color, posicion, pequeños pixeles)
+  - [x] Retoque de sprites ya hechos (Color, posicion, pequeños pixeles)
 
  Edd:
   - N/A
@@ -30,24 +33,9 @@ SPRITE:
  Tord:
   - N/A
 
-POTRAIT:
+### POTRAIT:
  Tom:
-  - Retoque de potraits ya hechos (Color, posicion, pequeños pixeles)
-
- Edd:
-  - N/A
- 
- Matt:
-  - N/A
-
- Tord:
-  - N/A  
-  
-DIALOGOS:
- Tom:
-  - Dialogos de dias normales
-  - Dialogos de eventos (Implementacion de NPC en eventos;-Seccion:Eventos)
-  - Dialogos de matrimonio
+  - [x] Retoque de potraits ya hechos (Color, posicion, pequeños pixeles)
 
  Edd:
   - N/A
@@ -58,11 +46,26 @@ DIALOGOS:
  Tord:
   - N/A  
   
-HORARIOS:
+### DIALOGOS:
  Tom:
-  - Horarios de dias normales
-  - Horarios de eventos (Implementacion de NPC en eventos;-Seccion:Eventos)
-  - Horarios de matrimonio
+  - [ ] Dialogos de dias normales
+  - [ ] Dialogos de eventos
+  - [ ] Dialogos de matrimonio
+
+ Edd:
+  - N/A
+ 
+ Matt:
+  - N/A
+
+ Tord:
+  - N/A  
+  
+### HORARIOS:
+  Tom:
+  - [ ] Horarios de dias normales
+  - [ ] Horarios de eventos 
+  - [ ] Horarios de matrimonio
 
  Edd:
   - N/A
@@ -73,10 +76,10 @@ HORARIOS:
  Tord:
   - N/A    
 
-EVENTOS:
+### EVENTOS:
  Tom:
-  - Implementar en eventos junto a otros NPCS
-  - Añadir cumpleaños a calendario
+  - [ ] Implementar en eventos junto a otros NPCS
+  - [ ] Añadir cumpleaños a calendario
 
  Edd:
   - N/A
@@ -87,9 +90,9 @@ EVENTOS:
  Tord:
   - N/A
     
-EVENTOS DE CORAZON:
+### EVENTOS DE CORAZON:
  Tom:
-  - Implementar eventos
+  - [ ] Implementar eventos
 
  Edd:
   - N/A
@@ -101,7 +104,7 @@ EVENTOS DE CORAZON:
   - N/A    
 
 
-ERRORES:
+### ERRORES:
 
 Ventanas no cambian de hora
 
