@@ -10,9 +10,7 @@ Mod de Stardew Valley que introduce a los personajes de la web-serie Eddsworld; 
 - [@DaniPraivet](https://github.com/DaniPraivet)
 
 
-[## Installation ](Installation.png)
-
-PASOS DE INSTALACION:
+![](https://github.com/Martiitale/EddsValley/blob/main/GUIDE%20for%20his%20likes%20and%20dislikes/Installation.png?raw=true)
 
 1.-Descargar [Smapi](https://smapi.io/) (Ver instrucciones de instalacion.)
 
@@ -23,14 +21,12 @@ PASOS DE INSTALACION:
 4.-Descomprimir EddsValley.zip en la carpeta de mods creada por Smapi
 
 
-
+![](https://github.com/Martiitale/EddsValley/blob/main/GUIDE%20for%20his%20likes%20and%20dislikes/Download.png?raw=true)
     
-## Screenshots
-
-![App Screenshot](https://ko-fi.com/martiitale/gallery#galleryItemView)
 
 
-## Donacion
+
+![](https://github.com/Martiitale/EddsValley/blob/main/GUIDE%20for%20his%20likes%20and%20dislikes/Donate.png?raw=true)
 
 Apoya la creacion del mod en Ko-Fi o Patreon
 
