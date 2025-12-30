@@ -1,5 +1,5 @@
 
-# EDDSVALLEY
+![](https://github.com/Martiitale/EddsValley/blob/main/GUIDE%20for%20his%20likes%20and%20dislikes/logo.png?raw=true)
 
 Mod de Stardew Valley que introduce a los personajes de la web-serie Eddsworld; Edd, Matt, Tord y Tom, asi como una nueva localizacion y eventos de corazones nuevos.
 
