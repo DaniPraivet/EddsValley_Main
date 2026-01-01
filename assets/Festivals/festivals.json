@@ -199,8 +199,7 @@
             "Action": "EditData",
             "Target": "Data/Festivals/spring13",
             "Entries": {
-                "Tom": "Como estas gupisimo, yo aqui pillando huevo s$3",
-                "Satoru_spouse": "Si lo cuentas...$1#Si lo cuentas te rajo$4"
+                "Tom": "¿Cómo estás, @? No quiero competir con los niños, pero sé de alguien que está más que encantado.$1"
             }
         },
         {
