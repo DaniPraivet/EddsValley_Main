@@ -156,15 +156,6 @@
          "FromFile":"assets/dialogue/Tom_marriageDialogue.json"
       },
       {
-         "LogName":"Engagement Dialogue",
-         "Action":"EditData",
-         "Target":"Data/EngagementDialogue",
-         "Entries":{
-            "Tom0":"Hey, sweetheart. Just wanted to steal a moment to remind you how much I love you.$3",
-            "Tom1":"Are you nervous?$7"
-         }
-      },
-      {
          "LogName":"Tom Festivals Data",
          "Action":"Include",
          "FromFile":"assets/Festivals/festivals.json"
