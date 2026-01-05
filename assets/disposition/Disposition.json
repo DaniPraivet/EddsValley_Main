@@ -16,7 +16,14 @@
                "Optimism":"Negative",
                "CanBeRomanced":"True",
                "IntroductionsQuest":"True",
-               "SpouseRoom":{ "MapAsset":"Maps/Tom_spouseRoom" },
+               "SpouseRoom": {
+                  "MapSourceRect": {
+                     "X": 18,
+                     "Y": 18,
+                     "Width": 6,
+                     "Height": 9
+                  }
+               },
                "Home":[
                   {
                      "Id":"Default",
